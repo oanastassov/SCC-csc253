@@ -1,10 +1,8 @@
 // Author: Olivia Anastassov 
 
-// When it was from: The midterm.
-
 // This folder contains:
-// Strongly Connected Components Algorithm - Restructured and made to work with Mathematica for extra credit. 
-// Mathematica visualization provided by Professor Streinu
+// Strongly Connected Components Algorithm 
+// Mathematica visualization provided by Professor Ileana Streinu
 // A data folder containing the input and the output information from this algorithm
 
 // Go to unit tests for running instructions 
